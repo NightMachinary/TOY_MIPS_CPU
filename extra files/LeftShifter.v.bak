@@ -1,0 +1,4 @@
+module LeftShifter (input [4:0] amount,input [31:0] data, output [31:0] out);
+  L 
+
+endmodule

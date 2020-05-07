@@ -1,0 +1,21 @@
+module Adder32
+  (
+   input [31:0]  x,
+                 y,
+   input         cin,
+  
+   output [31:0] A, 
+   output        cout,, output overflow
+   );
+
+   wire [31:0]   cins;
+   
+   FullAdder fadd[31:0] (.x(x), .y(y), .cin({cins[30:0]},cin), .A(A), .cout(cins)); 
+   assign cout = cins[31];
+   and (isNegative, x[31], y[31]);
+   xor (signsVary, x[31], y[31]);
+   nor (isPositive, x[31], y[31]);
+   
+   Mux2(.d0(), .d1(1'b0), .s0(signsVary), .out(overflow))
+      
+     endmodule 

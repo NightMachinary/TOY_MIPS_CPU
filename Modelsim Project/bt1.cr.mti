@@ -1,0 +1,618 @@
+{{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v}} {1 {vlog -work work {\\Mac\AllFiles\Base\- GDrive\Verilog\Project SMIPS\booth.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work \\Mac\AllFiles\Base\- GDrive\Verilog\Project SMIPS\booth.v 
+-- Compiling module booth
+
+Top level modules:
+	booth
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v 
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MyXor
+
+Top level modules:
+	MyXor
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v 
+-- Compiling module LF16
+
+Top level modules:
+	LF16
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v 
+-- Compiling module LRS8
+
+Top level modules:
+	LRS8
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MyAnd
+
+Top level modules:
+	MyAnd
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v 
+-- Compiling module LF1
+
+Top level modules:
+	LF1
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder65
+
+Top level modules:
+	Adder65
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LRS2
+
+Top level modules:
+	LRS2
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF2
+
+Top level modules:
+	LF2
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder32
+
+Top level modules:
+	Adder32
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:45 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v 
+-- Compiling module Adder32
+
+Top level modules:
+	Adder32
+End time: 10:42:45 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignExtender
+
+Top level modules:
+	SignExtender
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v 
+-- Compiling module LRS16
+
+Top level modules:
+	LRS16
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Minus32
+
+Top level modules:
+	Minus32
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Min
+
+Top level modules:
+	Min
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:48 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v 
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v 
+-- Compiling module AdderN
+
+Top level modules:
+	AdderN
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v 
+-- Compiling module LF4
+
+Top level modules:
+	LF4
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MyOr
+
+Top level modules:
+	MyOr
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v 
+-- Compiling module tb_fulladder
+
+Top level modules:
+	tb_fulladder
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:48 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v 
+-- Compiling module Mux8
+
+Top level modules:
+	Mux8
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v 
+-- Compiling module LRS1
+
+Top level modules:
+	LRS1
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg32
+
+Top level modules:
+	Reg32
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:48 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v 
+-- Compiling module Reg32
+
+Top level modules:
+	Reg32
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF32
+
+Top level modules:
+	LF32
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:45 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v 
+-- Compiling module SignExtender
+
+Top level modules:
+	SignExtender
+End time: 10:42:45 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v 
+-- Compiling module LeftShifter
+
+Top level modules:
+	LeftShifter
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v 
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v 
+-- Compiling module LF2
+
+Top level modules:
+	LF2
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v 
+-- Compiling module LRS4
+
+Top level modules:
+	LRS4
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AdderN
+
+Top level modules:
+	AdderN
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v 
+-- Compiling module LF32
+
+Top level modules:
+	LF32
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LRS16
+
+Top level modules:
+	LRS16
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LeftShifter
+
+Top level modules:
+	LeftShifter
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:48 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v 
+-- Compiling module Mux16
+
+Top level modules:
+	Mux16
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module oldbooth
+
+Top level modules:
+	oldbooth
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v 
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LRS4
+
+Top level modules:
+	LRS4
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF4
+
+Top level modules:
+	LF4
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v 
+-- Compiling module dff
+
+Top level modules:
+	dff
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LRS8
+
+Top level modules:
+	LRS8
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF16
+
+Top level modules:
+	LF16
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF8
+
+Top level modules:
+	LF8
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v 
+-- Compiling module LRS2
+
+Top level modules:
+	LRS2
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v}} {1 {vlog -work work {\\Mac\AllFiles\Base\- GDrive\Verilog\Project SMIPS\boothFixed.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work \\Mac\AllFiles\Base\- GDrive\Verilog\Project SMIPS\boothFixed.v 
+-- Compiling module boothFixed
+
+Top level modules:
+	boothFixed
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module boothFixed
+
+Top level modules:
+	boothFixed
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:48 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v 
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+End time: 10:42:48 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux4
+
+Top level modules:
+	Mux4
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ARS1
+
+Top level modules:
+	ARS1
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mydff
+
+Top level modules:
+	mydff
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux16
+
+Top level modules:
+	Mux16
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:47 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v 
+-- Compiling module LF8
+
+Top level modules:
+	LF8
+End time: 10:42:47 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux8
+
+Top level modules:
+	Mux8
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LRS1
+
+Top level modules:
+	LRS1
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v 
+-- Compiling module Adder65
+
+Top level modules:
+	Adder65
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LF1
+
+Top level modules:
+	LF1
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MyNor
+
+Top level modules:
+	MyNor
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v 
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {{//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v}} {1 {vlog -work work {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+Start time: 10:42:46 on Feb 06,2018
+vlog -reportprogress 300 -work work //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v 
+-- Compiling module ARS1
+
+Top level modules:
+	ARS1
+End time: 10:42:46 on Feb 06,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_fulladder
+
+Top level modules:
+	tb_fulladder
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DatapathTest
+
+Top level modules:
+	DatapathTest
+
+} {} {}} {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v} {1 {vlog -work work -stats=none {//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module myDiv
+
+Top level modules:
+	myDiv
+
+} {} {}}

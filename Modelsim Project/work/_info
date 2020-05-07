@@ -1,0 +1,927 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a 2/examples
+vAdder32
+Z0 !s110 1518181595
+!i10b 1
+!s100 b>EC5V1a?B@YZ<AaihWOC0
+IBXS32OoTdPD]THiMGE;2Z1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Modelsim Project
+w1518046906
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1518181594.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder32
+vAdder65
+Z6 !s110 1518181597
+!i10b 1
+!s100 Xie^U5QzB`hBh4_KNmg6B1
+IS;geFAz6aK_9UHee:j@a30
+R1
+R2
+w1517755698
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1518181597.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Adder65.v|
+!s101 -O0
+!i113 1
+R5
+n@adder65
+vAdderN
+R6
+!i10b 1
+!s100 hTRSGd7m_E;^`S<PY>kIm1
+IA3@X?BaKLG7GN;9a2<6cT2
+R1
+R2
+w1517823113
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/AdderN.v|
+!s101 -O0
+!i113 1
+R5
+n@adder@n
+vALU
+R0
+!i10b 1
+!s100 5hI3zbLVm=TNW17]L<U[82
+I>J_?2l_T8?URf2XhQDOFX1
+R1
+R2
+w1518134532
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1518181595.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ALU.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+vARS1
+R6
+!i10b 1
+!s100 EmII:^N^GlHOH^AkJKJCa1
+I>@^k@oE<_l>TT0WzlnLL13
+R1
+R2
+w1517761290
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/ARS1.v|
+!s101 -O0
+!i113 1
+R5
+n@a@r@s1
+vbooth
+Z9 !s110 1518181596
+!i10b 1
+!s100 EKzVIMczDhk1BMgGIlTz>2
+I]WM7Nf4`BMgU;nA]Xbm[a1
+R1
+R2
+w1517923936
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1518181596.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/booth.v|
+!s101 -O0
+!i113 1
+R5
+vboothFixed
+R6
+!i10b 1
+!s100 `3oC^`LlJRnP0<JCaF3:51
+I>lZQJf1EWAc9DJ^V<`2;21
+R1
+R2
+w1517901679
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/boothFixed.v|
+!s101 -O0
+!i113 1
+R5
+nbooth@fixed
+vControl
+R9
+!i10b 1
+!s100 T_9];9Lf9[:IT_;7mYWK=1
+InNJhmlS=AS47A6jMGbNEb1
+R1
+R2
+w1518129615
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Control.v|
+!s101 -O0
+!i113 1
+R5
+n@control
+vdata_memory
+R0
+!i10b 1
+!s100 BFWTMmFfVehH0cMMM37Pc3
+IhHaTD0Q>d43R<n6[YND`;1
+R1
+R2
+w1518133913
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Memory.v|
+!s101 -O0
+!i113 1
+R5
+vDatapath
+R0
+!i10b 1
+!s100 GjLK]hd<VS<[^PKET[]JX1
+I@;@`kkUaiJNL]REFzT?QX1
+R1
+R2
+w1518122777
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Datapath.v|
+!s101 -O0
+!i113 1
+R5
+n@datapath
+vDatapathTest
+R0
+!i10b 1
+!s100 V?0=LniQBMbdA]jj2EWPU1
+IZ:8k034?JN2mI2Z`eBTRR1
+R1
+R2
+w1518181172
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/DatapathTest.v|
+!s101 -O0
+!i113 1
+R5
+n@datapath@test
+vdff
+!s110 1518042114
+!i10b 1
+!s100 oTjUekbIX2;Pe:1Zn]3?73
+IU0QiQa^YWH78AMLQRjVU40
+R1
+dC:/- E/project/New folder
+w1517578670
+Z11 8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v
+Z12 F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1518042114.000000
+Z13 !s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/dff.v|
+!s101 -O0
+!i113 1
+R5
+vFullAdder
+Z15 !s110 1518181594
+!i10b 1
+!s100 IC3J:DSJ>H3@FZzOMTPF<3
+IAHb:>>?^iX=BbHGl1hXkW0
+R1
+R2
+w1517556249
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/FullAdder.v|
+!s101 -O0
+!i113 1
+R5
+n@full@adder
+vLeftShifter
+R15
+!i10b 1
+!s100 8DKOAagdUGz4;WWc1SWg80
+IKPQYC307UdPcQ9BK:F_R13
+R1
+R2
+w1518046936
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LeftShifter.v|
+!s101 -O0
+!i113 1
+R5
+n@left@shifter
+vLF1
+Z16 !s110 1518181599
+!i10b 1
+!s100 0foKXn2<B9:SUlH`Y3d:L1
+IB16OMEFo[9jD6T?OihLFP1
+R1
+R2
+w1517733247
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z17 !s108 1518181598.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF1.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f1
+vLF16
+R6
+!i10b 1
+!s100 jzn3U`5Xk3aZAd;aBKiZ53
+I8den[WLMd`_09VTLb<TH11
+R1
+R2
+w1517755898
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF16.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f16
+vLF2
+Z18 !s110 1518181598
+!i10b 1
+!s100 `d@[C6CS=K75JGDVEXg^90
+ILdYHI4o^Yal>T4E:7XNd:3
+R1
+R2
+w1517735494
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF2.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f2
+vLF32
+R6
+!i10b 1
+!s100 hNTE[AmNM9SddB2<[U<0j0
+ISYog<^B<MTQBR=n7@QYl=0
+R1
+R2
+w1517735623
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF32.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f32
+vLF4
+R18
+!i10b 1
+!s100 ImL@;3gfjfAj103Kb<>P63
+I;<cn]J@Rce_m21`lI][<Z2
+R1
+R2
+w1517735544
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF4.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f4
+vLF8
+R6
+!i10b 1
+!s100 Ue<X?kH@YM64o]_;_VIYb0
+IOoZga]`VFKMd6FNXeNj330
+R1
+R2
+w1517735631
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LF8.v|
+!s101 -O0
+!i113 1
+R5
+n@l@f8
+vLRS1
+R18
+!i10b 1
+!s100 OS^Ef]_IX8=FZ^b?CFCT03
+IPc_>;NdYW6W71zADe[<eU3
+R1
+R2
+w1517734093
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS1.v|
+!s101 -O0
+!i113 1
+R5
+n@l@r@s1
+vLRS16
+R18
+!i10b 1
+!s100 ;SD7X1U7JbGA<B[E3aE<R3
+IRaB:<@0ioKUL6i0L]65ki3
+R1
+R2
+w1517735602
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS16.v|
+!s101 -O0
+!i113 1
+R5
+n@l@r@s16
+vLRS2
+R18
+!i10b 1
+!s100 <a2M]OM[W@ETS]8Q=R8:72
+I3F0_XPAYLEH]XY?hSQR5L3
+R1
+R2
+w1517735618
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS2.v|
+!s101 -O0
+!i113 1
+R5
+n@l@r@s2
+vLRS4
+R18
+!i10b 1
+!s100 gSTonLOmPJ20:R?hez7IC0
+IXNOn5ok6Q_;6IJ0JGHdj^2
+R1
+R2
+w1517735613
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS4.v|
+!s101 -O0
+!i113 1
+R5
+n@l@r@s4
+vLRS8
+R18
+!i10b 1
+!s100 [nS?k5TS0ghfmP?_7cCk:0
+IN^7IXJM109bRTJ91gjeAZ2
+R1
+R2
+w1517735608
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/LRS8.v|
+!s101 -O0
+!i113 1
+R5
+n@l@r@s8
+vMin
+R9
+!i10b 1
+!s100 JW7]G39PFbQf@f0P8FUgP2
+I14IAeCLWI:aQ3dZba<kgV2
+R1
+R2
+w1518017233
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Min.v|
+!s101 -O0
+!i113 1
+R5
+n@min
+vMinus32
+R0
+!i10b 1
+!s100 Y5O;azk5k?>93b[1U=o_N2
+In?LgFC^[j3c]3o:gm;hYA3
+R1
+R2
+w1518044870
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Minus32.v|
+!s101 -O0
+!i113 1
+R5
+n@minus32
+vMux16
+R15
+!i10b 1
+!s100 9o2h=I:C9nd9oKSOzi]5g0
+I:;cTXcL@8N9Cn?RN`e2T?3
+R1
+R2
+w1518046957
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux16.v|
+!s101 -O0
+!i113 1
+R5
+n@mux16
+vMux2
+R16
+!i10b 1
+!s100 4daPRIR88lgd8oQMKH?OF1
+IkFW?kP=U?SDf:oBZ53JV]1
+R1
+R2
+w1517639047
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z19 !s108 1518181599.000000
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux2.v|
+!s101 -O0
+!i113 1
+R5
+n@mux2
+vMux4
+R16
+!i10b 1
+!s100 nJh]@I[=o2[N6n]RnfN:B3
+I=Kd@S5^0dYNoTTc?d<12Z2
+R1
+R2
+w1517733060
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux4.v|
+!s101 -O0
+!i113 1
+R5
+n@mux4
+vMux8
+R15
+!i10b 1
+!s100 LOiWD2NYdVZClSmOM7]1f1
+IGZVIS?BR`iLgiJ6k;JkZ12
+R1
+R2
+w1518046971
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Mux8.v|
+!s101 -O0
+!i113 1
+R5
+n@mux8
+vMyAnd
+R9
+!i10b 1
+!s100 Hh2AGRBFh`?ZbBBnHncOL0
+IX^hO_TBMXe4fW^7Gei4<L3
+R1
+R2
+Z20 w1517992524
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyAnd.v|
+!s101 -O0
+!i113 1
+R5
+n@my@and
+vmydff
+R0
+!i10b 1
+!s100 li2bil6gC>3[:hfN1BAM[2
+I2[f8`1gj>;VcJGKM:MW<o3
+R1
+R2
+w1518043702
+R11
+R12
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+R13
+R14
+!s101 -O0
+!i113 1
+R5
+vmyDiv
+R9
+!i10b 1
+!s100 @4lU3nigKR0Id>nMI=[SX2
+IefC5fWkJ;lRKJ8zhB:72O3
+R1
+R2
+w1517934881
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/myDiv.v|
+!s101 -O0
+!i113 1
+R5
+nmy@div
+vMyNor
+R9
+!i10b 1
+!s100 P=ZcT<9J=Yg?dO>63hVB;3
+Ic:Ni[@RBTW?z9=>Fe_7MV0
+R1
+R2
+Z21 w1517992525
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyNor.v|
+!s101 -O0
+!i113 1
+R5
+n@my@nor
+vMyOr
+R9
+!i10b 1
+!s100 WQCCCLEgHb?A8^3U;7G^>2
+I^=71VZ4=RQWYF<hUjmed:3
+R1
+R2
+R20
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyOr.v|
+!s101 -O0
+!i113 1
+R5
+n@my@or
+vMyXor
+R9
+!i10b 1
+!s100 LOjIg@3EihmA@T2g`G[mb2
+I[RMBO8aAME]P>9UgkJKae0
+R1
+R2
+R21
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/MyXor.v|
+!s101 -O0
+!i113 1
+R5
+n@my@xor
+voldbooth
+R6
+!i10b 1
+!s100 aT8<d`oAJN6DgWKRHYkFG0
+I5fJz2ZQLQ^UW=blknEgDT1
+R1
+R2
+w1517923127
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/oldbooth.v|
+!s101 -O0
+!i113 1
+R5
+vReg32
+R0
+!i10b 1
+!s100 6nzO`7ZHGBU>W;SmZzN:f3
+IfS3bJmlihd_`Pi<FD`51^3
+R1
+R2
+w1518043715
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/Reg32.v|
+!s101 -O0
+!i113 1
+R5
+n@reg32
+vregisterfile
+R0
+!i10b 1
+!s100 zOOYhH6k1XP`=kE@a_l9P2
+IV`HB`[0PB^MLz@0U1=nke1
+R1
+R2
+w1518133903
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/RegisterFile.v|
+!s101 -O0
+!i113 1
+R5
+vSignExtender
+R16
+!i10b 1
+!s100 MCz:TRHR@@@2BnWn7763?2
+IW5NlQgz9A=MMiVGN@a4_71
+R1
+R2
+w1517732672
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/SignExtender.v|
+!s101 -O0
+!i113 1
+R5
+n@sign@extender
+vtb_fulladder
+R18
+!i10b 1
+!s100 REIRJ;BfB^=`Wd4CjA>mf2
+IOe>hZ13j9]1?b]VNCjlTX0
+R1
+R2
+w1517735096
+8//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v
+F//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 //Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|//Mac/AllFiles/Base/- GDrive/Verilog/Project SMIPS/fulladderT.v|
+!s101 -O0
+!i113 1
+R5

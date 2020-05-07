@@ -1,0 +1,6 @@
+module LF2 (input [31:0] data, output [31:0] out);
+   
+   LeftShifter1(.data(data),.out(t1));
+   LeftShifter1(.data(t1),.out(out));
+   
+endmodule 

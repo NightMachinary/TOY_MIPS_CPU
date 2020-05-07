@@ -1,0 +1,13 @@
+module Datapath (
+                 //Control signals
+                 input RegWrite, RegDst, ALUSrc, PCSrc, ALUOp, MemWrite, MemRead, MemtoReg, Reset, clk
+                 
+                 );
+
+   Reg32 PC (.data(pcIn), .clk(clkl), .storedData(pcOut), .clear(Reset));
+   
+   Adder32 a1 (.x(pcOut), .y(32'd4), .) 
+   
+endmodule
+
+
